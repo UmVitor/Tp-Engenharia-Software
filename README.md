@@ -1,13 +1,22 @@
 # Tp-Engenharia-Software
 
 ## Descrição do projeto
-O projeto consiste em implementar um agregador de filmes, que permite mostrar informações de filmes, tais como nome, sinopse, elenco e genero. Além disso, a plataforma irá permitir que os usuarios avaliem e comentem suas impressões sobre o filme. 
+O projeto consiste em implementar um agregador de filmes, que permite mostrar informações de filmes, tais como nome, sinopse, elenco e gênero. Além disso, a plataforma irá permitir que os usuarios avaliem e comentem suas impressões sobre o filme. 
 
 ## Integrantes:
 
-Lucas Xavier Veneroso 2016065138
+Lucas Xavier Veneroso - 2016065138
 
 Rodrigo Luiz Macêdo Ferreira - 2020007007
 
 Vitor Barreto Souza - 2017074645
+
+## Algumas possíveis features
+- Usuário pode postar comentários sobre os filmes
+- Na página do filme conter informações como:
+-   Nome, elenco, gênero do filme e sinopse.
+- Exibir os comentários na página do filme de tal forma que outros usuários consigam visualizar
+- Usuário consegue avaliar o filme(medido em alguma escala ser definida)
+- Exibir a média das avaliaçãos dos usuários na página do filme
+
 
