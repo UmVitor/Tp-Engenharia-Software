@@ -1,11 +1,10 @@
 # Tp-Engenharia-Software
 
 ## Descrição do projeto
-<<<<<<< HEAD
 O projeto consiste em implementar um agregador de filmes, que permite mostrar informações de filmes, tais como nome, sinopse, elenco e gênero. Além disso, a plataforma irá permitir que os usuarios avaliem e comentem suas impressões sobre o filme. 
-=======
+
 O projeto consiste em implementar um agregador de filmes, que permite mostrar informações de filmes, tais como nome, sinopse, elenco e gênero. Além disso, a plataforma irá permitir que os usuarios avaliem e comentem suas impressões sobre o filme. Nesse sentido, para desenvolver o projeto decidimos utilizar tecnologias que nos permitem implementar recursos de back-end, front-end e banco de dados para o sistema(seriam tecnologias como C#, Javascript e SQL).
->>>>>>> 4cc1feb419f0bd3834eb5a7926782f2065ebf40f
+
 
 ## Integrantes:
 
@@ -15,7 +14,6 @@ Rodrigo Luiz Macêdo Ferreira - 2020007007
 
 Vitor Barreto Souza - 2017074645
 
-<<<<<<< HEAD
 ## Algumas possíveis features
 - Usuário pode postar comentários sobre os filmes
 - Na página do filme conter informações como:
@@ -23,7 +21,7 @@ Vitor Barreto Souza - 2017074645
 - Exibir os comentários na página do filme de tal forma que outros usuários consigam visualizar
 - Usuário consegue avaliar o filme(medido em alguma escala ser definida)
 - Exibir a média das avaliaçãos dos usuários na página do filme
-=======
+
 ## Algumas possíveis features:
 
 - Usuário pode avaliar os filmes(em critérios como porcentagem ou notas)
@@ -32,6 +30,5 @@ Vitor Barreto Souza - 2017074645
 - Página do filme contém informações como:
 -   Nome, elenco, gênero do filme e sinopse.
 - Página do filme contém nota do filme(média das avaliações dos usuários)
->>>>>>> 4cc1feb419f0bd3834eb5a7926782f2065ebf40f
 
 
