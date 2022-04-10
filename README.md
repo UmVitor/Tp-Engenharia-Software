@@ -1,7 +1,7 @@
 # Tp-Engenharia-Software
 
 ## Descrição do projeto
-
+O projeto consiste em implementar um agregador de filmes, que permite mostrar informações de filmes, tais como nome, sinopse, elenco e genero. Além disso, a plataforma irá permitir que os usuarios avaliem e comentem suas impressões sobre o filme. 
 
 ## Integrantes:
 
