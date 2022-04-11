@@ -1,8 +1,6 @@
 # Tp-Engenharia-Software
 
 ## Descrição do projeto
-O projeto consiste em implementar um agregador de filmes, que permite mostrar informações de filmes, tais como nome, sinopse, elenco e gênero. Além disso, a plataforma irá permitir que os usuarios avaliem e comentem suas impressões sobre o filme. 
-
 O projeto consiste em implementar um agregador de filmes, que permite mostrar informações de filmes, tais como nome, sinopse, elenco e gênero. Além disso, a plataforma irá permitir que os usuarios avaliem e comentem suas impressões sobre o filme. Nesse sentido, para desenvolver o projeto decidimos utilizar tecnologias que nos permitem implementar recursos de back-end, front-end e banco de dados para o sistema(seriam tecnologias como C#, Javascript e SQL).
 
 
