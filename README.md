@@ -14,6 +14,8 @@ Rodrigo Luiz Macêdo Ferreira - 2020007007
 
 Vitor Barreto Souza - 2017074645
 
+Felipe Zan Coelho - 2019117210
+
 ## Algumas possíveis features
 - Usuário pode postar comentários sobre os filmes
 - Na página do filme conter informações como:
