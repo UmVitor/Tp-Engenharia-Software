@@ -21,3 +21,9 @@ Felipe Zan Coelho - 2019117210
 - Exibir os comentários na página do filme de tal forma que outros usuários consigam visualizar
 - Usuário consegue avaliar o filme(medido em alguma escala ser definida)
 - Exibir a média das avaliaçãos dos usuários na página do filme
+
+# Sptint 1
+## Tarefas técnicas
+Criar o banco de dados [Vitor]
+
+Criar uma API que realiza um CRUD básico [Vitor]
