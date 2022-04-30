@@ -45,4 +45,5 @@ Felipe Zan Coelho - 2019117210
   * Projetar e testar a interface web[Vitor]
   * Implementar a interface web[Rodrigo]
   * Criar e implementar a operação de busca de filme[Vitor]
+  * Implementar a camada de acesso a dados[Rodrigo]
 
