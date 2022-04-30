@@ -23,7 +23,26 @@ Felipe Zan Coelho - 2019117210
 - Exibir a média das avaliaçãos dos usuários na página do filme
 
 # Sptint 1
-## Tarefas técnicas
-Criar o banco de dados [Vitor]
+## Tarefas técnicas:
+- Discutir o esquema de banco de dados[Rodrigo, Lucas, Vitor, Felipe]
+- Criação do banco de dados[Rodrigo]
+- Integração do banco de dados[Vitor]
 
-Criar uma API que realiza um CRUD básico [Vitor]
+## Histórias dos usuários:
+- Como usuário, gostaria de poder postar comentários na página do filme
+  * Projetar e testar a interface web[Felipe]
+  * Implementar a interface web[Lucas]
+  * Implementar a camada de controle, com operações como adicionar e remover perguntas[Vitor]
+- Como usuário, gostaria de poder avaliar os filmes:
+  * Projetar e testar a interface web[Felipe]
+  * Implementar a interface web[Lucas]
+  * Implementar a camada de controle, com operações como avaliar o filme[Rodrigo]
+  * Implementar na cadamade de controle a operação da média da avaliação geral do filme[Vitor]
+- Como usuário, gostaria de poder acessar informações sobre os filmes, como nome, elenco, gênero do filme e sinopse
+  * Projetar e testar a interface web[Felipe]
+  * Implementar a interface web[Lucas]
+- Como usuário, gostaria de poder buscar um filme pelo seu nome
+  * Projetar e testar a interface web[Vitor]
+  * Implementar a interface web[Rodrigo]
+  * Criar e implementar a operação de busca de filme[Vitor]
+
