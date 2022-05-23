@@ -16,7 +16,7 @@ namespace PlataformaFilmes.Repositories
 
         public FilmeRepository()
         {
-            _connection = new MySqlConnection("Server=localhost;Database=tp-engSoftware-database;Uid=root;Pwd=limao;");
+            _connection = new MySqlConnection("Server=localhost;Database=tp-engSoftware-database;Uid=;Pwd=;");
         }
         public List<Filme> ObterTodosFilmes()
         {
