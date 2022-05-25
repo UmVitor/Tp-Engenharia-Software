@@ -137,7 +137,7 @@
   }
   
   .featured-button {
-    background-color: #4dbf00;
+    background-color: dodgerblue;
     color: white;
     padding: 10px 20px;
     border-radius: 10px;
@@ -189,9 +189,9 @@
   }
   
   .movie-list-item-title {
-    background-color: #333;
+    background-color: lightsalmon;
     padding: 0 10px;
-    font-size: 32px;
+    font-size: 28px;
     font-weight: bold;
     position: absolute;
     top: 10%;
@@ -201,9 +201,9 @@
   }
   
   .movie-list-item-desc {
-    background-color: #333;
+    background-color: lightsalmon;
     padding: 10px;
-    font-size: 14px;
+    font-size: 12px;
     position: absolute;
     top: 30%;
     left: 50px;
@@ -214,7 +214,8 @@
   
   .movie-list-item-button {
     padding: 10px;
-    background-color: #4dbf00;
+    background-color: dodgerblue;
+    font-weight: bold;
     color: white;
     border-radius: 10px;
     outline: none;
