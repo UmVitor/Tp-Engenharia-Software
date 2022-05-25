@@ -6,10 +6,15 @@
     font-family: "Roboto", sans-serif;
   }
 
+  a, a:visited { 
+    text-decoration: none; 
+    color: firebrick;
+    font-family: "Comic Sans MS", cursive;
+  }
 
   .navbar {
     width: 100%;
-    height: 100px;
+    height: 120px;
     background-color: black;
     z-index:999;
     position: sticky;
@@ -22,13 +27,13 @@
     padding: 0 50px;
     height: 100%;
     color: white;
-    font-family: "Sen", sans-serif;
+    font-family: "Comic Sans MS", cursive;
   }
   
   .navbar-brand {
     width: 10%;
     height: 100px;
-    margin-right: 25px;
+    margin-right: 5px;
     margin-left: 25px;
     flex: 1;
   }
@@ -43,14 +48,20 @@
   }
   
   .menu-list-item {
-    margin-right: 30px;
+    margin-left: 0px;
+    margin-right: 40px; 
     color: firebrick;
-    /* font-family: "DejaVu Sans Mono", monospace; */
-    font-family: "DejaVu Sans Mono", monospace;
-    font-size: 20px;
-    font-weight: bold;
+    /*font-family: "DejaVu Sans Mono", monospace;*/
+    font-family: "Verdana", sans-serif;/*Open Sans Condensed*/
+    font-size: 26px;
   }
   
+  .d-flex{
+    flex: 2;
+    display: flex;
+    height: 30px;
+  }
+
   .profile-container {
     flex: 2;
     display: flex;
@@ -62,6 +73,7 @@
     margin: 0 20px;
     font-family: "DejaVu Sans Mono", monospace;
     color: white;
+    font-weight: bold;
    
   }
   
@@ -82,7 +94,7 @@
     flex-direction: column;
     align-items: center;
     z-index: 1000;
-    padding-top: 43px;
+    padding-top: 130px;/*53px;*/
   }
   
   .left-menu-icon {
@@ -110,6 +122,10 @@
     font-weight: bold;
   }
   
+  .passer-content {
+    background: linear-gradient(to bottom, rgba(0,0,0,0), #151515), url('img/f-1.jpg');
+  }
+
   .featured-title {
     width: 200px;
   }
