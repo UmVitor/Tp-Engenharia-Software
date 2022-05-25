@@ -15,16 +15,16 @@
 <body>
     <div class="navbar">
         <div class="navbar-container">
-            <div class="logo-container">
-                <h1 class="logo">IMRDb</h1>
-            </div>
+            <img class="navbar-brand" src="images/logo.png" alt="logo">
             <div class="menu-container">
                 <ul class="menu-list">
                     <li class="menu-list-item active">Página Inicial</li>
                     <li class="menu-list-item">Filmes</li>
-                    <div class="searchbox">
-                        <input type="text">
-                    </div>
+                    <form class="d-flex">
+                        <input class="searchbox" type="search" placeholder="Pesquisar filme"
+                            aria-label="Search">
+                        <button class="btn btn-outline-light" type="submit">Pesquisar</button>
+                    </form>
                 </ul>
             </div>
             <div class="profile-container">
@@ -45,7 +45,7 @@
         <div class="content-container">
             <div class="featured-content"
                 style="background: linear-gradient(to bottom, rgba(0,0,0,0), #151515), url('img/f-1.jpg');">
-                <p class="featured-desc">IMRDb é um site de avaliação de filmes, esse nome é uma sigla que significa Internet Movie Rating Database, ou, em português, O Banco de dados de classificação de filmes da internet..</p>
+                <p class="featured-desc">Estrelas&Filmes é um site de avaliação e classificação de filmes da internet que permite acessar informações como sinopse, gênero, elenco...</p>
             </div>
             <div class="movie-list-container">
                 <h1 class="movie-list-title">POPULARES</h1>
@@ -142,7 +142,7 @@
                     <div class="movie-list">
                         <div class="movie-list-item">
                             <img class="movie-list-item-img" src="" alt="">
-                            <span class="movie-list-item-title">Títulor</span>
+                            <span class="movie-list-item-title">Título</span>
                             <button class="movie-list-item-button">INFORMAÇÕES</button>
                         </div>
                         <div class="movie-list-item">
